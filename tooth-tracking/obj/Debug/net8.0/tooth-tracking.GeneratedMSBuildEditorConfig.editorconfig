@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = tooth_tracking
-build_property.ProjectDir = e:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\
+build_property.ProjectDir = e:\GameDev\Robot\物体检测与重心查找\Dorisoy.ToothTracking\tooth-tracking\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
