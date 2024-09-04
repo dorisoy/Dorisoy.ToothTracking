@@ -1,0 +1,14 @@
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\bin\Debug\net8.0\tooth-tracking.exe
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\bin\Debug\net8.0\tooth-tracking.deps.json
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\bin\Debug\net8.0\tooth-tracking.runtimeconfig.json
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\bin\Debug\net8.0\tooth-tracking.dll
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\bin\Debug\net8.0\tooth-tracking.pdb
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.GeneratedMSBuildEditorConfig.editorconfig
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.AssemblyInfoInputs.cache
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.AssemblyInfo.cs
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.csproj.CoreCompileInputs.cache
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.dll
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\refint\tooth-tracking.dll
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.pdb
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\tooth-tracking.genruntimeconfig.cache
+E:\GameDev\Robot\物体检测与重心查找\yolo5-object-detection-and-centroid-finding-main\tooth-tracking\obj\Debug\net8.0\ref\tooth-tracking.dll

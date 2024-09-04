@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GameDev\\Robot\\\u7269\u4F53\u68C0\u6D4B\u4E0E\u91CD\u5FC3\u67E5\u627E\\yolo5-object-detection-and-centroid-finding-main\\tooth-tracking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC18857C-EBFC-4D32-A593-BFAF2493D447}|tooth-tracking.csproj|e:\\gamedev\\robot\\\u7269\u4F53\u68C0\u6D4B\u4E0E\u91CD\u5FC3\u67E5\u627E\\yolo5-object-detection-and-centroid-finding-main\\tooth-tracking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC18857C-EBFC-4D32-A593-BFAF2493D447}|tooth-tracking.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\GameDev\\Robot\\\u7269\u4F53\u68C0\u6D4B\u4E0E\u91CD\u5FC3\u67E5\u627E\\yolo5-object-detection-and-centroid-finding-main\\tooth-tracking\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\GameDev\\Robot\\\u7269\u4F53\u68C0\u6D4B\u4E0E\u91CD\u5FC3\u67E5\u627E\\yolo5-object-detection-and-centroid-finding-main\\tooth-tracking\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T08:01:49.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

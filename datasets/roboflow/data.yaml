@@ -1,0 +1,8 @@
+path: ../datasets/roboflow
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 4
+names: ['head', 'mouth', 'person', 'teeth']
