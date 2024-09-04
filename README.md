@@ -18,18 +18,18 @@ OpenCV-Python: 4.5.5.62
 
 **屏幕**
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/01.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/01.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/02.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/02.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/03.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/03.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/04.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/04.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/05.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/05.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/06.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/06.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/07.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/07.png"/>
 
-<img scr="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/08.png"/>
+<img src="https://github.com/dorisoy/Dorisoy.ToothTracking/blob/main/Screen/08.png"/>
